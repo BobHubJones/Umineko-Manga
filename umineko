@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/rWd1RNo.jpg",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "Rokkenjima",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/N74wXtB/"
@@ -14,7 +14,7 @@
       "last_updated": "1616368746"
     },
     "2": {
-      "title": "Chapter 2",
+      "title": "The Legend of the Witch",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/NhjqCcp/"
@@ -22,7 +22,7 @@
       "last_updated": "1616368746"
     },
     "3": {
-      "title": "Chapter 3",
+      "title": "The Golden Witch",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/DohvWqV/"
@@ -30,7 +30,7 @@
       "last_updated": "1616368746"
     },
     "4": {
-      "title": "Chapter 4",
+      "title": "The Golden Epitaph",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/RzTJifx/"
@@ -38,7 +38,7 @@
       "last_updated": "1616368746"
     },
     "5": {
-      "title": "Chapter 5",
+      "title": "Letter from a Witch",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/WY1GE2a/"
@@ -46,7 +46,7 @@
       "last_updated": "1616368746"
     },
     "6": {
-      "title": "Chapter 6",
+      "title": "The Eternal Promise",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/caHhv4N/"
@@ -54,7 +54,7 @@
       "last_updated": "1616368746"
     },
     "7": {
-      "title": "Chapter 7",
+      "title": "The First Night (1)",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/vLMjDuU/"
@@ -62,7 +62,7 @@
       "last_updated": "1616368746"
     },
     "8": {
-      "title": "Chapter 8",
+      "title": "The First Night (2)",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/WhC8CGJ/"
@@ -70,7 +70,7 @@
       "last_updated": "1616368746"
     },
     "9": {
-      "title": "Chapter 9",
+      "title": "The Witch's Sacrifices",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/I3DgdMu/"
@@ -78,7 +78,7 @@
       "last_updated": "1616368746"
     },
     "10": {
-      "title": "Chapter 10",
+      "title": "Witch without a Form",
       "volume": "1",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/lwo7A2Z/"
@@ -86,7 +86,7 @@
       "last_updated": "1616368746"
     },
     "11": {
-      "title": "Chapter 11",
+      "title": "The Invisible Witch",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/BfMKiks/"
@@ -94,7 +94,7 @@
       "last_updated": "1616368746"
     },
     "12": {
-      "title": "Chapter 12",
+      "title": "Eva vs. Natsuhi",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/8Yc3kWW/"
@@ -102,7 +102,7 @@
       "last_updated": "1616368746"
       },
     "13": {
-      "title": "Chapter 13",
+      "title": "Battler vs. Eva",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/cyc3V3w/"
@@ -110,7 +110,7 @@
       "last_updated": "1616368746"
     },
     "14": {
-      "title": "Chapter 14",
+      "title": "The Second Night (1)",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/lLqd40f/"
@@ -118,7 +118,7 @@
       "last_updated": "1616368746"
     },
     "15": {
-      "title": "Chapter 15",
+      "title": "The Second Night (2)",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/cbOhFhr/"
@@ -126,7 +126,7 @@
       "last_updated": "1616368746"
     },
     "16": {
-      "title": "Chapter 16",
+      "title": "Kanon vs. Beatrice",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/GjQJiUT/"
@@ -134,7 +134,7 @@
       "last_updated": "1616368746"
     },
     "17": {
-      "title": "Chapter 17",
+      "title": "Chessboard Logic",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/WgUn2NK/"
@@ -142,7 +142,7 @@
       "last_updated": "1616368746"
     },
     "18": {
-      "title": "Chapter 18",
+      "title": "Confinement",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/uihNQwc/"
@@ -150,7 +150,7 @@
       "last_updated": "1616368746"
     },
     "19": {
-      "title": "Chapter 19",
+      "title": "Separation",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/tvWkpOC/"
@@ -158,7 +158,7 @@
       "last_updated": "1616368746"
     },
     "20": {
-      "title": "Chapter 20",
+      "title": "Discord",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/7wJY0Xs/"
@@ -166,7 +166,7 @@
       "last_updated": "1616368746"
     },
     "21": {
-      "title": "Chapter 21",
+      "title": "Golden Land",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/0hCaezP/"
@@ -174,7 +174,7 @@
       "last_updated": "1616368746"
     },
     "22": {
-      "title": "Chapter 22",
+      "title": "Tea Party —Episode 1—",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/V7Lx1A2/"
@@ -182,7 +182,7 @@
       "last_updated": "1616368746"
       },
     "23": {
-      "title": "Chapter 23",
+      "title": "Secret Tea Party —????—",
       "volume": "2",
       "groups": {
         "Yen Press": "/proxy/api/imgur/chapter/Obg9KVq/"
