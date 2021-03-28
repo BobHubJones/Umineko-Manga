@@ -9,9 +9,97 @@
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/N74wXtB/"
+        "Yen Press": "/proxy/api/imgur/chapter/N74wXtB/"
       },
       "last_updated": "1616368746"
-    }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/NhjqCcp/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/DohvWqV/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/RzTJifx/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/WY1GE2a/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/caHhv4N/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/vLMjDuU/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/WhC8CGJ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/I3DgdMu/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "1",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/lwo7A2Z/"
+      },
+      "last_updated": "1616368746"
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "2",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/BfMKiks/"
+      },
+      "last_updated": "1616368746"
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "2",
+      "groups": {
+        "Yen Press": "/proxy/api/imgur/chapter/8Yc3kWW/"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
