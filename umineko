@@ -1,0 +1,17 @@
+{
+  "title": "Umineko When They Cry Episode 1: Legend of the Golden Witch",
+  "description": "Each year, the Ushiromiya family gathers at the secluded mansion of its patriarch, the elderly Kinzo. It has been six years since Battler joined his cousins at the annual event, but their happy reunion is overshadowed by worsening weather and an eerie premonition from his youngest cousin. When their parents' conversation turns to the division of the inheritance upon Kinzo's imminent death, Battler and his cousins reminisce about the stories their parents teased them with as children-tales of the witch, Beatrice, who haunts the island's forest. But when people start dying unnatural deaths, Battler can't help but wonder...",
+  "artist": "Kei Natsume",
+  "author": "Ryukishi07",
+  "cover": "https://i.imgur.com/rWd1RNo.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/N74wXtB/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
